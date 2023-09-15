@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-miguel-morales'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA1540922300479AB87646972851FE81 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9190AEA2D7D54DF2899B46C7CE5BFF6D }}
           package: .
